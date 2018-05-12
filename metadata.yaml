@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6614
     wikipedia: http://fi.wikipedia.org/wiki/Anni_Kepplerus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16313#Hovin-InkeriHistoriallinen-kertomus-Pohjois-Karjalasta
 gutenberg_issued: '2005-07-16'
 gutenberg_type: Text
 identifiers:
